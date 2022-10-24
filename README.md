@@ -45,8 +45,13 @@ Foi utilizado design system para padronizar os componentes utilizados no projeto
 
 - Primeiramente abra seu Visual Studio Code.
 - Com o VSCode aberto vá no canto superior esquerdo e selecione **`file`** em seguida **`open file`** e selecione o arquivo clonado anteriormente.
-- Com o arquivo aberto abra o terminal e digite o comando:
+- Com o arquivo aberto vamos baixar as dependências do projeto. Abra o terminal e digite o comando:
      ```
+      npm i
+     ```
+- E em seguida vamos rodar o projeto digitando o comando:
+  
+    ```
       npm run dev
      ```
 - Em seguida abra o link que aparecerá no terminal. Exemplo: **`http://localhost:5173/`** 
