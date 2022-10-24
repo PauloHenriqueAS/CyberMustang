@@ -54,4 +54,4 @@ Foi utilizado design system para padronizar os componentes utilizados no projeto
     ```
       npm run dev
      ```
-- Em seguida abra o link que aparecerá no terminal. Exemplo: **`http://localhost:5173/`** 
+- Por fim abra o link que aparecerá no terminal. Exemplo: **`http://localhost:5173/`** 
