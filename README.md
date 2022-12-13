@@ -1,18 +1,24 @@
-# Site Teste Front-End Cyber Gênios
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"   width="23"/> Site Teste Front-End Cyber Gênios
 
-###### Tecnologias utilizadas
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-FINALIZADO-blue" />
+</p>
 
-* React
-* Tailwindcss
-* TypeScript
+### ⚙️ Tecnologias Utilizadas
 
-## Organização das pastas
+<div>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</div>
+
+## 📁 Organização das pastas
 
 * Arquivos de imagem: dentro da pasta **`public`**
 * Arquivos de componentes: dentro da pasta **`components`**
 * Arquivo contendo a estrutura principal se encontra no **`APP.tsx`**
   
-## Design System
+## 🚀 Design System
 Foi utilizado design system para padronizar os componentes utilizados no projeto, afim de organização e coerência.
 
 ###### Componentes criados
