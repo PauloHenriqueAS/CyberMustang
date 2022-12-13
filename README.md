@@ -13,7 +13,7 @@
 * Arquivo contendo a estrutura principal se encontra no **`APP.tsx`**
   
 ## Design System
-Foi utilizado design system para padronizar os componentes utilizados no projeto, afim de organização e coerencia.
+Foi utilizado design system para padronizar os componentes utilizados no projeto, afim de organização e coerência.
 
 ###### Componentes criados
 
